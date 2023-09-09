@@ -62,6 +62,16 @@ const Header = () => {
                         </Link>
                     </li>
                     <li className='text-l font-bold hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300 p-4 resize-none hover:resize'>
+                        <Link activeClass="active" to="project" smooth={true} duration={500}>
+                            Project
+                        </Link>
+                    </li>
+                    <li className='text-l font-bold hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300 p-4 resize-none hover:resize'>
+                        <Link activeClass="active" to="awards" smooth={true} duration={500}>
+                            Awards
+                        </Link>
+                    </li>
+                    <li className='text-l font-bold hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300 p-4 resize-none hover:resize'>
                         <Link activeClass="active" to="contact" smooth={true} duration={500}>
                             Contact
                         </Link>
@@ -106,6 +116,16 @@ const Header = () => {
                     </Link>
                 </li>
                 <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                    <Link onClick={handleClick} activeClass="active" to="projectm" smooth={true} duration={500}>
+                        project
+                    </Link>
+                </li>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                    <Link onClick={handleClick} activeClass="active" to="awards" smooth={true} duration={500}>
+                        Awards
+                    </Link>
+                </li>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="contact" smooth={true} duration={500}>
                         Contact
                     </Link>
@@ -125,7 +145,7 @@ const Header = () => {
                         <a className='flex justify-between items-center w-full text-[#fff]' href="https://scholar.google.com/citations?user=FL3e_ZQAAAAJ&hl=en" rel="noreferrer" target="_blank">Google Scholar <SiGooglescholar size={30} /> </a>
                     </li>
                     <li className='w-[160px] h-[60px] bg-theme-fuchsia-900 flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-200'>
-                        <a className='flex justify-between items-center w-full text-[#fff]' href="https://drive.google.com/file/d/1SY0g3JO1qT15UVW-R8KiPPg3ZixlJd9Z/view?usp=sharing" rel="noreferrer" target="_blank">CV <TbFileCv size={30} /> </a>
+                        <a className='flex justify-between items-center w-full text-[#fff]' href="https://drive.google.com/file/d/1rqsnO7c-NeL8TbxtTS-V8lg5SswtmQDR/view?usp=sharing" rel="noreferrer" target="_blank">CV <TbFileCv size={30} /> </a>
                     </li>
                     
 

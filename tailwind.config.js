@@ -15,7 +15,7 @@ module.exports = {
       'text-plain-white': '#ffffff',
       'bg-slate-800':'#1e293b',
       'text-fuchsia-300':'#f0abfc',
-      'bg-fuchsia-950':'#4a044e'
+      'bg-fuchsia-950':'#4a044e',
     },
     extend: {},
   },

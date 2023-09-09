@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Research from "./components/Research";
 import Project from "./components/Project";
+import Awards from "./components/Awards";
 
 function App() {
   return (
@@ -21,8 +22,9 @@ function App() {
       <Research/>
       <Experience/>
       <Project/>
+      <Awards/>
       <Contact/>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   );
 }

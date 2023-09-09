@@ -30,21 +30,6 @@ const Project = () => {
                     </div>
                 </div>
                 <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>2. Digital Garage </p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>A system that can detect and record vehicles and their license plates as they enter a garage using the Kivy framework also has the ability to identify and differentiate between different kinds of vehicles.</p>
-                    
-                </div>
-                <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>3. Digital Driver </p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The application, driven by artificial intelligence, prioritizes passenger and driver safety.  My involvement included activities like data preparation, augmentation and training YOLOv4 and YOLOv5 object detection models to locate arms. </p>
-                    
-                </div>
-                <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>4. Car parts detection and Car Damage Identification </p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The YOLACT architecture, known for instance segmentation, was employed to detect car damage.</p>
-                    
-                </div>
-                <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>5. Langchain based Data Indexing of Facebook Business Page </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>Developed a React application to retrieve information from a chosen Facebook page and then save that information as embedded vectors inside a Langchain pipeline. </p>
                     <div className="mt-2 ml-4">
@@ -52,14 +37,42 @@ const Project = () => {
                     </div>
                 </div>
                 <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>6. Chatbot </p>
+                    <p className='text-text-small-slate-dark font-medium'>6. Autobot </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>Developed customized chatbot by utilizing react app and ChatGPT</p>
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://autobot.zantrik.com/" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
+                </div>
+                <div className='mt-4 '>
+                    <p className='text-text-small-slate-dark font-medium'>3. Digital Driver </p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The application, driven by artificial intelligence, prioritizes passenger and driver safety.  My involvement included activities like data preparation, augmentation and training YOLOv4 and YOLOv5 object detection models to locate arms. </p>
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://driver.zantrik.com/" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
+                </div>
+                <div className='mt-4 '>
+                    <p className='text-text-small-slate-dark font-medium'>2. Digital Garage </p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>A system that can detect and record vehicles and their license plates as they enter a garage using the Kivy framework also has the ability to identify and differentiate between different kinds of vehicles.</p>
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/11aLf4lHtKwPjJPh68cuKCaz_kmqImUpc?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
                     
                 </div>
+                
+                <div className='mt-4 '>
+                    <p className='text-text-small-slate-dark font-medium'>4. Car Parts Detection, Parts Segmentation, Damage Identification </p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The YOLACT architecture, known for instance segmentation, was employed to detect car damage.</p>
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/1owVcpPunI4R7gTma-C_szJQoIqI8y3Kk?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
+                </div>
+                
                 <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>7. Autonomous Car </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>An Arduino-based experiment was conducted in which a vehicle demonstrated autonomous movement and the ability to adjust its path when encountering obstacles.</p>
-                    
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/1qPWRPgyjmfvJ-F0aS9WHR8f_tJZw2yPP?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
                 </div>
                 <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>8. Creation of Bluetooth Communication and Android controlled Robo-Car </p>

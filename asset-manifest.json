@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.44552116.css",
+    "main.js": "/profile/static/js/main.42242b9c.js",
+    "static/media/servicewebtemplate.png": "/profile/static/media/servicewebtemplate.d40a8524e0c43afd96cd.png",
+    "static/media/methila.jpeg": "/profile/static/media/methila.585e734e037978ed4a7b.jpeg",
+    "index.html": "/profile/index.html",
+    "main.44552116.css.map": "/profile/static/css/main.44552116.css.map",
+    "main.42242b9c.js.map": "/profile/static/js/main.42242b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44552116.css",
+    "static/js/main.42242b9c.js"
+  ]
+}

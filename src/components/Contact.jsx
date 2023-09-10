@@ -63,7 +63,7 @@ const Contact = () => {
         <input className='p-2 bg-bg-slate-200' type="text" placeholder='Your name' name='user_name' />
         <input className='my-4 p-2 bg-bg-slate-200' type="email" placeholder='Your email' name='user_email' />
         <textarea className='p-2 bg-bg-slate-200' name="message" id="" rows="10" placeholder='Say something interesting...'></textarea>
-        <button className='bg-[#0f1729] text-[#f9fafc] px-4 py-3 my-8 flex items-center w-28 hover:bg-[#fff] duration-200 hover:text-[#0F1729]'>Submit
+        <button className='bg-header-bg-fuchsia-900 text-[#f9fafc] px-4 py-3 my-8 flex items-center w-28 hover:bg-text-fuchsia-300 duration-200 hover:text-[#0F1729]'>Submit
           <span>
             <HiArrowNarrowRight className='group-hover:translate-x-2 duration-200 ml-4' />
           </span>

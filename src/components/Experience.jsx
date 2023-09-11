@@ -21,15 +21,15 @@ const Experience = () => {
 
           <ExperienceItem
             date="Jun 2020 - Aug 2020"
-            dateColor="#f9fafc"
-            name="Machine Learning Developer Internship,"
+            dateColor="#f0abfc"
+            name="Machine Learning Developer Internship"
             company="Zantrik"
             description="My responsibilities included data preprocessing and annotation tasks. Additionally, I successfully underwent a 4-month training program in Deep Learning Computer Vision, which was conducted by LICT and NUS (Leveraging ICT for Employment and Growth of the IT-ITES Industry)."
           />
 
           <ExperienceItem
             date="Feb 2020 - Aug 2020"
-            dateColor="#f9fafc"
+            dateColor="#f0abfc"
             name="Lecturer"
             company="Bangladesh Institue of Science and Technology (BIST)"
             description="In charge of delivered instruction in the field of Electronics and Communication Engineering. The courses I have instructed include:  
@@ -41,7 +41,7 @@ const Experience = () => {
 
             <ExperienceItem
             date="Oct 2019 - Jan 2020"
-            dateColor="#f9fafc"
+            dateColor="#f0abfc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
             description="I was responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
@@ -51,7 +51,7 @@ const Experience = () => {
 
             <ExperienceItem
             date="Jun 2018 - Sept 2018"
-            dateColor="#f9fafc"
+            dateColor="#f0abfc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
             description="I was responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  

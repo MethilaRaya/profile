@@ -145,7 +145,7 @@ const Header = () => {
                         <a className='flex justify-between items-center w-full text-[#fff]' href="https://scholar.google.com/citations?user=FL3e_ZQAAAAJ&hl=en" rel="noreferrer" target="_blank">Google Scholar <SiGooglescholar size={30} /> </a>
                     </li>
                     <li className='w-[160px] h-[60px] bg-theme-fuchsia-900 flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-200'>
-                        <a className='flex justify-between items-center w-full text-[#fff]' href="https://drive.google.com/file/d/1qS78Cps9ACEtKHb2BAHMs_a1A9UqDnBx/view?usp=sharing" rel="noreferrer" target="_blank">CV <TbFileCv size={30} /> </a>
+                        <a className='flex justify-between items-center w-full text-[#fff]' href="https://drive.google.com/file/d/1_ZHHgm-MtIUjF3iHeaG3dSQd9wmfdGJe/view?usp=sharing" rel="noreferrer" target="_blank">CV <TbFileCv size={30} /> </a>
                     </li>
                     
 

@@ -16,7 +16,7 @@ const Experience = () => {
             dateColor="#f9fafc"
             name="Machine Learning Engineer"
             company="Zantrik"
-            description="I've concentrated on Computer Vision Research and Development, developing an advanced model for vehicle detection, damage assessment, and license plate recognition. This enables precise identification, damage evaluation, and efficient tracking. I've also contributed to enhancing safety through arm analysis and developed an intuitive chatbot for streamlined customer interactions."
+            description="My primary responsibilities are investigating appropriate deep learning networks, preparing deployment pipelines and training the networks. I've concentrated on Computer Vision Research and Development, developing an advanced model for vehicle detection, damage assessment, and license plate recognition. This enables precise identification, damage evaluation, and efficient tracking. I've also contributed to enhancing safety through arm analysis and developed an intuitive chatbot for streamlined customer interactions."
           />
 
           <ExperienceItem
@@ -32,7 +32,7 @@ const Experience = () => {
             dateColor="#f9fafc"
             name="Lecturer"
             company="Bangladesh Institue of Science and Technology (BIST)"
-            description="In charge of delivering instruction in the field of Electronics and Communication Engineering. The courses I have instructed include:  
+            description="In charge of delivered instruction in the field of Electronics and Communication Engineering. The courses I have instructed include:  
 ⦿ Electrical Instrumentation and Measurements             
 ⦿ Digital Systems Lab 
 ⦿ Antenna and Wave Propagation                    
@@ -44,7 +44,7 @@ const Experience = () => {
             dateColor="#f9fafc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
-            description="I am responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
+            description="I was responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
 ⦿ Electronics Devices and Circuits I Lab             
 ⦿ Microwave and Radar Engineering Lab"
           />
@@ -54,7 +54,7 @@ const Experience = () => {
             dateColor="#f9fafc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
-            description="I am responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
+            description="I was responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
 ⦿ Chemistry Lab             
 ⦿ Antenna and Wave Propagation Lab
 ⦿ Optical Fiber Communications Lab"

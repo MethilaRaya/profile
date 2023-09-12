@@ -85,47 +85,47 @@ const Header = () => {
             </div>
             {/* Mobile Menu */}
             <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#fff] flex flex-col justify-center items-center'}>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="home" smooth={true} duration={500}>
                         Home
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="about" smooth={true} duration={500}>
                         About
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="education" smooth={true} duration={500}>
                         Education
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="skills" smooth={true} duration={500}>
                         Skills
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
-                    <Link onClick={handleClick} activeClass="active" to="research" smooth={true} duration={500}>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
+                    <Link onClick={handleClick} activeClass="active" to="research" smooth={true} durtheme-fuchsia-900ation={500}>
                         Research
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="experience" smooth={true} duration={500}>
                         Experience
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="projectm" smooth={true} duration={500}>
                         project
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="awards" smooth={true} duration={500}>
                         Awards
                     </Link>
                 </li>
-                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-text-white hover:text-text-fuchsia-300'>
+                <li className='py-6 text-4xl hover:bg-theme-fuchsia-900 duration-200 text-theme-fuchsia-900 hover:text-text-fuchsia-300'>
                     <Link onClick={handleClick} activeClass="active" to="contact" smooth={true} duration={500}>
                         Contact
                     </Link>

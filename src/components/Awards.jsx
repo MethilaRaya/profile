@@ -42,15 +42,21 @@ const Awards = () => {
                     </div>                
                 </div>
                 <div className='mt-4 '>
-                    <p className='text-text-[#f9fafc] font-medium'>5.  Participated at "Telco War Fare 2016" presented by Grameenphone.</p>   
+                    <p className='text-text-[#f9fafc] font-medium'>5. Participated at "Telco War Fare 2016" presented by Grameenphone.</p>   
                     <div className="mt-2 ml-4">
                         <a className="underline font-bold" href="https://drive.google.com/file/d/1Utg8OF_JGr7_A11ag8B-OxlMh6Zbh5Uo/view?usp=sharing" rel="noreferrer" target="_blank">Certificate ⮕</a>
                     </div>                
                 </div>
                 <div className='mt-4 '>
-                    <p className='text-text-[#f9fafc] font-medium'>6. Achieved the 3rd place in the "Prativa Sandhan" dance competition in the year 2003.</p>   
+                    <p className='text-text-[#f9fafc] font-medium'>6. Placed 3rd position in the Karthak (dance) category during the divisional competition in the Nrityanchal talent search program in 2003.</p>   
                     <div className="mt-2 ml-4">
                         <a className="underline font-bold" href="https://drive.google.com/file/d/1uXMVPSjz_yN2zbow6LsfYJtWKYXHe3Ci/view?usp=sharing" rel="noreferrer" target="_blank">Certificate ⮕</a>
+                    </div>                
+                </div>
+                <div className='mt-4 '>
+                    <p className='text-text-[#f9fafc] font-medium'>7. Participated in a school cultural competition and earned placement.</p>   
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/13SIOiWsv-M4YkaTYoVWOp4V40kk4ef8r?usp=sharing" rel="noreferrer" target="_blank">Certificates ⮕</a>
                     </div>                
                 </div>
                 

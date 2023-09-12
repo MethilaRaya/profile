@@ -55,7 +55,7 @@ const Experience = () => {
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
             description="I was responsible for conducting laboratory sessions, supervising examinations, and providing support to faculty members in the Departments of Electrical & Electronic Engineering and Electronics & Telecommunication Engineering. Assisted courses are:  
-⦿ Chemistry Lab             
+⦿ Chemistry Lab           
 ⦿ Antenna and Wave Propagation Lab
 ⦿ Optical Fiber Communications Lab"
           />

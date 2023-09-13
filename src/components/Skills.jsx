@@ -28,7 +28,7 @@ const Skills = () => {
                     </div>
                     <div class='w-full grid sm:grid-cols-2 flex flex-col gap-2 sm:gap-4 sm:flex-row sm:justify-center'>
                         <p class='font-bold text-left text-lg sm:text-right'>Web Development:</p>
-                        <p class='text-left sm:text-left sm:block'>PHP, HTML, CSS</p>
+                        <p class='text-left sm:text-left sm:block'>PHP, HTML, CSS, Laravel</p>
                     </div>
                     {/* <div class='flex flex-col justify-center w-full sm:w-auto'>
                         <p class='text-center text-right sm:text-left md:block'>Machine Learning, Android</p>

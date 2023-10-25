@@ -23,7 +23,7 @@ const Project = () => {
 
                 
                 <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>1. Brain Tumour Detection </p>
+                    <p className='text-text-small-slate-dark font-medium'>1. Brain Tumor Detection </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>I have undergone training to implement the YOLOv4 object detection model for the purpose of detecting brain tumors. </p>
                     <div className="mt-2 ml-4">
                         <a className="underline font-bold" href="https://github.com/MethilaRaya/Brain-Tumour-Detection" rel="noreferrer" target="_blank">Github project link ⮕</a>

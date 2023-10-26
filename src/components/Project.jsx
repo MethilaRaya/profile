@@ -30,6 +30,13 @@ const Project = () => {
                     </div>
                 </div>
                 <div className='mt-4 '>
+                    <p className='text-text-small-slate-dark font-medium'>2. Multi-Class Lung Lesion Segmentation Using YOLACT: Adenocarcinoma, Cancer, and Nodule Detection </p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>An advanced YOLACT segmentation model is employed for precise identification and segmentation of adenocarcinoma, cancer, and lung nodules in medical lung images. </p>
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/14B1Wjizjd9TxUl2t1Gm-AUDY58N_yHC3?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
+                </div>
+                <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>2. Langchain based Data Indexing of Facebook Business Page </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>Developed a React application to retrieve information from a chosen Facebook page and then save that information as embedded vectors inside a Langchain pipeline. </p>
                     <div className="mt-2 ml-4">
@@ -66,19 +73,13 @@ const Project = () => {
                         <a className="underline font-bold" href="https://drive.google.com/drive/folders/1owVcpPunI4R7gTma-C_szJQoIqI8y3Kk?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
                     </div>
                 </div>
-                
-                <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>7. Autonomous Car </p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>An Arduino-based experiment was conducted in which a vehicle demonstrated autonomous movement and the ability to adjust its path when encountering obstacles.</p>
-                    <div className="mt-2 ml-4">
-                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/1qPWRPgyjmfvJ-F0aS9WHR8f_tJZw2yPP?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
-                    </div>
-                </div>
                 <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>8. Creation of Bluetooth Communication and Android controlled Robo-Car </p>
                     <p className='text-text-small-slate-dark text-sm italic ml-4'>This Arduino-based project utilized Bluetooth technology to enable remote control of a vehicle.</p>
-                </div>
-                
+                    <div className="mt-2 ml-4">
+                        <a className="underline font-bold" href="https://drive.google.com/drive/folders/1qPWRPgyjmfvJ-F0aS9WHR8f_tJZw2yPP?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
+                    </div>
+                </div>                
             </div>
         </div>
     )

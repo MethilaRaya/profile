@@ -30,8 +30,8 @@ const Project = () => {
                     </div>
                 </div>
                 <div className='mt-4 '>
-                    <p className='text-text-small-slate-dark font-medium'>2. Multi-Class Lung Lesion Segmentation Using YOLACT</p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>An advanced YOLACT segmentation model is employed for precise identification and segmentation of adenocarcinoma, cancer, and lung nodules in medical lung images. </p>
+                    <p className='text-text-small-slate-dark font-medium'>2. Multi-Class Lung Lesion Detection and Segmentation Using YOLOv8 and YOLACT</p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>An advanced YOLOv8 model and YOLACT segmentation model  are employed for precise detection and segmentation of adenocarcinoma, cancer, and lung nodules in medical lung images. </p>
                     <div className="mt-2 ml-4">
                         <a className="underline font-bold" href="https://drive.google.com/drive/folders/14B1Wjizjd9TxUl2t1Gm-AUDY58N_yHC3?usp=sharing" rel="noreferrer" target="_blank">Project link ⮕</a>
                     </div>

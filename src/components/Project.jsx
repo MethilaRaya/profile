@@ -52,7 +52,7 @@ const Project = () => {
                 </div>
                 <div className='mt-4 '>
                     <p className='text-text-small-slate-dark font-medium'>4. Digital Driver </p>
-                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The application, driven by artificial intelligence, prioritizes passenger and driver safety.  My involvement included activities like data preparation, augmentation and training YOLOv4 and YOLOv5 object detection models to locate arms. </p>
+                    <p className='text-text-small-slate-dark text-sm italic ml-4'>The application, driven by artificial intelligence, prioritizes passenger and driver safety. My involvement included activities like data preparation, augmentation and training YOLOv4 and YOLOv5 object detection models to locate arms. Apart from that, I was involved in experimenting Google's open source face detection and eye-tracking model to extract facial features of the drivers, gaze detection and also finding out their attentiveness while driving.</p>
                     <div className="mt-2 ml-4">
                         <a className="underline font-bold" href="https://driver.zantrik.com/" rel="noreferrer" target="_blank">Project link ⮕</a>
                     </div>

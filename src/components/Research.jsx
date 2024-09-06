@@ -14,7 +14,7 @@ const Research = () => {
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full text-justify'>
                 <div>
                     <p className='text-2xl font-bold inline border-b-4 border-[#0f1729]'>Research Interests</p>
-                    <p className='text-text-small-slate-dark py-4'>Machine Learning, Computer Vision, Semantic Recognition and Understanding, Medical Imagine Analysis, Bioinformatics </p>
+                    <p className='text-text-small-slate-dark py-4'>Machine Learning, Computer Vision, Semantic Recognition and Understanding, Medical Image Analysis, Bioinformatics </p>
                 </div>
                 <div className="border-t-2 border-theme-fuchsia-900 w-full my-2"></div>
 

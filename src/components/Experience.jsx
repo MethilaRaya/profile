@@ -11,16 +11,24 @@ const Experience = () => {
         </div>
 
         <div className="container mx-auto">
-          <ExperienceItem
-            date="Sept 2020 - Present"
+        <ExperienceItem
+            date="November 2024- December 2024"
             dateColor="#f9fafc"
-            name="Machine Learning Engineer"
-            company="Zantrik"
-            description="My primary responsibilities are investigating appropriate deep learning networks, preparing deployment pipelines and training the networks. I've concentrated on Computer Vision Research and Development, developing an advanced model for vehicle detection, damage assessment, and license plate recognition. This enables precise identification, damage evaluation, and efficient tracking. I've also contributed to enhancing safety through arm analysis and developed an intuitive chatbot for streamlined customer interactions."
+            name="Python and Data Science Instructor (Part Time)"
+            company="EDGE Bangladesh"
+            description="I was responsible to instruct on topics related to Data Science including theoretical concept, practical appliances and real world implementations."
           />
 
           <ExperienceItem
-            date="Jun 2020 - Aug 2020"
+            date="September 2020 - December 2024"
+            dateColor="#f9fafc"
+            name="Machine Learning Engineer"
+            company="Zantrik"
+            description="My primary responsibilities were investigating appropriate deep learning networks, preparing deployment pipelines, and training the networks. I concentrated on Computer Vision Research and Development, where I developed an advanced model for vehicle detection, damage assessment, and license plate recognition. This enabled precise identification, damage evaluation, and efficient tracking. I also contributed to enhancing safety through arm analysis and developed an intuitive chatbot for streamlined customer interactions."
+          />
+
+          <ExperienceItem
+            date="June 2020 - August 2020"
             dateColor="#f0abfc"
             name="Machine Learning Developer Internship"
             company="Zantrik"
@@ -28,7 +36,7 @@ const Experience = () => {
           />
 
           <ExperienceItem
-            date="Feb 2020 - Aug 2020"
+            date="February 2020 - August 2020"
             dateColor="#f0abfc"
             name="Lecturer"
             company="Bangladesh Institue of Science and Technology (BIST)"
@@ -40,7 +48,7 @@ const Experience = () => {
           />
 
             <ExperienceItem
-            date="Oct 2019 - Jan 2020"
+            date="October 2019 - January 2020"
             dateColor="#f0abfc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
@@ -50,7 +58,7 @@ const Experience = () => {
           />
 
             <ExperienceItem
-            date="Jun 2018 - Sept 2018"
+            date="June 2018 - September 2018"
             dateColor="#f0abfc"
             name="Teaching Assistant"
             company="University of Liberal Arts Bangladesh (ULAB)"
